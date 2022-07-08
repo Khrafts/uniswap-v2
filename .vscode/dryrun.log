@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/uyoyouuwuseba/Desktop/Khrafts/uniswap-v2'
+make: Leaving directory `/Users/uyoyouuwuseba/Desktop/Khrafts/uniswap-v2'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
